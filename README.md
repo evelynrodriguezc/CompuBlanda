@@ -1,1 +1,1 @@
-# CompuBlanda
+# Computación Blanda
